@@ -392,7 +392,7 @@ MIT License - Copyright (c) 2025 Simple DSA Contributors
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OWNER/Simple-DSA&type=Date)](https://star-history.com/#OWNER/Simple-DSA&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=noodles-sed/Simple-DSA&type=Date)](https://star-history.com/#noodles-sed/Simple-DSA&Date)
 
 ---
 
