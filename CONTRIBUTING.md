@@ -65,13 +65,13 @@ Before you begin, ensure you have:
 
 3. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Simple-DSA.git
+   git clone https://github.com/noodles-sed/Simple-DSA.git
    cd Simple-DSA
    ```
 
 4. **Add upstream remote**
    ```bash
-   git remote add upstream https://github.com/ORIGINAL_OWNER/Simple-DSA.git
+   git remote add upstream https://github.com/noodles-sed/Simple-DSA.git
    ```
 
 5. **Verify remotes**
