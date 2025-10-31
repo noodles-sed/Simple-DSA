@@ -171,7 +171,9 @@ This policy does NOT apply to:
 For security-related questions or concerns that don't involve reporting a vulnerability:
 
 - Open a general discussion in the repository's Discussions section
-- Contact the maintainers through GitHub
+- Contact the maintainers
+    - [noodles-sed](https://github.com/noodles-sed)
+    - [Ayush Hardeniya](https://github.com/ayushHardeniya)
 
 ## Learning Resources
 

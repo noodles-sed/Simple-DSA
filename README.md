@@ -82,7 +82,7 @@ Perfect for first-time contributors and Hacktoberfest 2025 participants
 
 ## 🗂️ Problem Categories
 
-Our problems are organized into **comprehensive categories** covering all major DSA topics:
+Our problems are organized into **comprehensive categories** covering all major DSA topics: [[PROBLEM_LIST.md]](PROBLEM_LIST.md)
 
 ```
 📁 Categories
@@ -406,12 +406,12 @@ MIT License - Copyright (c) 2025 Simple DSA Contributors
 <br>
 <h3>🏗️ Core Project Architect</h3>
 <h2><b>Ayush Sharma</b></h2>
-<p><i>@ayushHardeniya</i></p>
+<p><a href="https://github.com/ayushHardeniya"><i>@ayushHardeniya</i></a></p>
 <p><b>Repository Maintener & Curator</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-hardeniya/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushHardeniya/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushHardeniya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ayush_hardeniya)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ayushHardeniya)
 
 <details>
 <summary><b>📋 View Contributions</b></summary>
