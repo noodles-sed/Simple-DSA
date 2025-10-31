@@ -1,0 +1,31 @@
+class Solution {
+  public:
+    Node *reverseKGroup(Node *head, int k) {
+        // code here
+        if (!head) return NULL;
+        
+        Node* curr = head;
+        Node* prev = NULL;
+        Node* next = NULL;
+        int count = 0;
+        
+        // Reverse first k nodes
+        while (curr != NULL && count < k) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            count++;
+        }
+        
+        // Now next points to (k+1)th node
+        // Recur for the list starting from current.
+        // And make rest of the list as next of first node
+        if (next != NULL)
+            head->next = reverseKGroup(next, k);
+        
+        // prev is new head of the reversed group
+        return prev;
+
+    }
+};
